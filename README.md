@@ -1,7 +1,7 @@
 - 👋 Hi, Welcome to my profile. I’m @Kripu77
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Front-end Web Development
-- 💞️ I’m looking to collaborate on projects yo help me to extend my potential
+- 🌱 I’m  a Front-end Web Developer
+- 💞️ I’m currently working on a massive project using HTML5, CSS3, Vanilla JS on the front end, PHP on the backend server and MYSQL as the database
 - 📫 How to reach me Email: Kripu.12345@gmail.com
 
 <!---
