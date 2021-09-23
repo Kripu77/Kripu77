@@ -1,4 +1,4 @@
-- 👋 Hi, Welcome to my profile. I’m @Kripu77
+- 👋 Hi, Welcome to my profile. I’m Kripu Khadka
 - 👀 I’m interested in Web Development
 - 🌱 I’m  a Front-end Web Developer
 - 💞️ I’m currently working on a massive project using HTML5, CSS3, Vanilla JS on the front end, PHP on the backend server and MYSQL as the database
