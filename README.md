@@ -1,7 +1,7 @@
 - 👋 Hi, Welcome to my profile. I’m Kripu Khadka
 - 👀 I’m interested in Web & Blockchain Development. 
-- 🌱 I’m  a Front-end Web Developer, Please visit kripukhadka.com for detailed information.
-- 💞️ I’m currently working on a massive project using HTML5, CSS3, Vanilla JS on the front end, PHP on the backend server and MYSQL as the database. I'm available for pair programming, please hit me up.
+- 🌱 Please visit kripukhadka.com for detailed information.
+- 💞️ I’m currently learning new features introduced by Next Js 12. I'm available also for pair programming, please hit me up.
 - 📫 How to reach me Email: Kripu.12345@gmail.com
 
 <!---
