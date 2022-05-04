@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently working on Web Automation & Advanced Automation Algorithm for ML
 
-- 🌱 I’m currently learning Data Science, Docker, & Advanced Dev Concepts. 
+- 🌱 I’m currently learning Data Science, & Advanced Dev Concepts. 
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles, & Public Speaking 
 
