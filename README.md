@@ -61,5 +61,4 @@
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=onedark)
 
 
-<br>
-<footer align='center'> Happy Coding!!! </footer>
+
