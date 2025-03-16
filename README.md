@@ -1,25 +1,20 @@
-<a href="https://github.com/awprice">
-  <img align="center" width="49%" src="./header.svg" />
-</a>
-<br/>
-<a href="https://github.com/kripu77">
-  <img align="center" width="49%" src="./repositories.svg" />
-</a>
-<a href="https://github.com/kripu77">
-  <img align="center" width="49%" src="./acti_comm.svg" />
-</a>
-
-<a href="https://github.com/kripu77">
-  <img align="center" width="49%" src="./iso_calender.svg" />
-</a>
-
-<a href="https://github.com/kripu77">
-    <img align="center" width="49%" src="./issue_pr_lang.svg" />
-</a>
-
-<a href="https://github.com/kripu77">
-  <img align="center" width="49%" src="./github-habits.svg" />
-</a>
-<a href="https://github.com/kripu77">
-    <img align="center" width="49%" src="./achievements.svg" />
-</a>
+<p align="center">
+  <a href="https://github.com/awprice">
+    <img src="./header.svg" width="70%" />
+  </a>
+  <a href="https://github.com/kripu77">
+    <img src="./repositories.svg" width="49%" />
+  </a>
+  <a href="https://github.com/kripu77">
+    <img src="./acti_comm.svg" width="49%" />
+  </a>
+  <a href="https://github.com/kripu77">
+    <img src="./iso_calender.svg" width="49%" />
+  </a>
+  <a href="https://github.com/kripu77">
+    <img src="./github-habits.svg" width="49%" />
+  </a>
+  <a href="https://github.com/kripu77">
+    <img src="./achievements.svg" width="49%" />
+  </a>
+</p>
